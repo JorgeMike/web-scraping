@@ -30,7 +30,7 @@ jobs:
 
     # Paso 4: Ejecutar el Script
     - name: Ejecutar Script
-      run: node index.js
+      run: npm runs start
       env:
         TWILIO_ACCOUNT_SID: ${{ secrets.TWILIO_ACCOUNT_SID }}
         TWILIO_AUTH_TOKEN: ${{ secrets.TWILIO_AUTH_TOKEN }}
