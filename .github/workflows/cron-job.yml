@@ -42,7 +42,7 @@ jobs:
       run: |
         git config user.name "GitHub Action"
         git config user.email "action@github.com"
-        git add precios.csv
+        git add csv/
         git diff --cached --exit-code || git commit -m "Actualización automática del archivo CSV"
         git push
       env:
