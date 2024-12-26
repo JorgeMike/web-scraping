@@ -2,7 +2,7 @@ import { chromium } from 'playwright';
 import mercado_libre from './scrapers/mercado_libre';
 
 const main = async () => {
-    const navegador = await chromium.launch({ headless: false });
+    const navegador = await chromium.launch({ headless: true });
     const contexto = await navegador.newContext({
         userAgent:
             'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
