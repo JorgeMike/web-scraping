@@ -1,4 +1,4 @@
-name: Actualizar CSV Automáticamente
+name: Cron Job
 
 on:
   schedule:
