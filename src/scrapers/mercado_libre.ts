@@ -66,7 +66,7 @@ const mercado_libre = async (
             to: process.env.TWILIO_TO_NUMBER!,
         });
     } else {
-        console.log('¡El precio está por encima del umbral!');
+        console.log('Busqueda concluida');
     }
 };
 
