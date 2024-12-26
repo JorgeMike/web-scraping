@@ -1,5 +1,5 @@
 {
-  "name": "llantas",
+  "name": "web-scraper",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
