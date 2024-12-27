@@ -6,7 +6,7 @@ import { mouse_move, scroll_move, wait_random_time } from '../utils/events';
 const amazon = async (
     contexto: BrowserContext,
     url: string,
-    precio_umbral: number,
+    precios_umbral: number[],
     csv_name: string
 ) => {
     console.log('Iniciando scraping de Amazon');
@@ -51,14 +51,17 @@ const amazon = async (
 
         csv_saver(csvFilePath, 'Amazon', titulo, precio);
 
-        if (Number(precio) < precio_umbral) {
-            message_sender(titulo, precio, url);
+        const precioNumerico = Number(precio);
+        const precioMeta = precios_umbral.find((p) => precioNumerico < p);
+
+        if (precioMeta) {
+            message_sender(titulo, precio, url, 'Amazon', precioMeta);
         }
         
     } catch (error) {
         console.error(`Error, ${csv_name}`, error);
     } finally {
-        console.log('Scraping de Mercado Libre concluido \n');
+        console.log('Scraping de Amazon concluido \n');
         await pagina.close();
     }
 };
