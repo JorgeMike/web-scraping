@@ -3,13 +3,13 @@ import { message_sender } from '../utils/twilo';
 import { csv_exist, csv_saver } from '../utils/csv';
 import { mouse_move, scroll_move, wait_random_time } from '../utils/events';
 
-const mercado_libre = async (
+const amazon = async (
     contexto: BrowserContext,
     url: string,
     precio_umbral: number,
     csv_name: string
 ) => {
-    console.log('Iniciando scraping de Mercado Libre');
+    console.log('Iniciando scraping de Amazon');
     const csvFilePath = csv_exist(csv_name);
 
     const pagina = await contexto.newPage();
@@ -27,43 +27,40 @@ const mercado_libre = async (
 
         const { precio = '0', titulo = 'Sin nombre' } = await pagina.evaluate(
             () => {
-                const contenedor_titulo =
-                    document.querySelector('.ui-pdp-header');
+                const main_container = document.querySelector('#centerCol');
+
                 const titulo =
-                    contenedor_titulo?.querySelector(
-                        '.ui-pdp-title'
-                    )?.innerHTML;
-
-                const contenedor_precios = document.querySelector('#price');
-                const contenedor_precio = contenedor_precios?.querySelector(
-                    '.ui-pdp-price__second-line'
-                );
-                const precio = contenedor_precio?.querySelector(
-                    '.andes-money-amount__fraction'
-                )?.innerHTML;
+                    main_container?.querySelector('#productTitle')?.innerHTML;
+                const precio =
+                    main_container?.querySelector('.a-price-whole')?.innerHTML;
                 const centavos =
-                    contenedor_precio?.querySelector(
-                        '.andes-money-amount__cents'
-                    )?.innerHTML || '00';
+                    main_container?.querySelector('.a-price-fraction')
+                        ?.innerHTML || '00';
 
-                const precio_final = `${precio}.${centavos}`;
+                const precio_final = `${precio
+                    ?.replace('$', '')
+                    .replace(/,/g, '')
+                    .replace(
+                        '<span class="a-price-decimal">.</span>',
+                        ''
+                    )}.${centavos}`;
 
-                return { titulo, precio: precio_final.replace(/,/g, '') };
+                return { titulo, precio: precio_final };
             }
         );
 
-        csv_saver(csvFilePath, 'MercadoLibre', titulo, precio);
+        csv_saver(csvFilePath, 'Amazon', titulo, precio);
 
         if (Number(precio) < precio_umbral) {
             message_sender(titulo, precio, url);
         }
+        
     } catch (error) {
         console.error(`Error, ${csv_name}`, error);
     } finally {
         console.log('Scraping de Mercado Libre concluido \n');
-
         await pagina.close();
     }
 };
 
-export default mercado_libre;
+export default amazon;
