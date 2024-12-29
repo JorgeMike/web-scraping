@@ -3,6 +3,12 @@ import fs from 'fs';
 
 const csv_exist = (csv_name: string) => {
     const csvFilePath = path.resolve(`src/csv/${csv_name}.csv`);
+    const csvDir = path.dirname(csvFilePath);
+
+    // Verifica si el directorio existe; si no, créalo
+    if (!fs.existsSync(csvDir)) {
+        fs.mkdirSync(csvDir, { recursive: true });
+    }
 
     // Verifica si el archivo CSV ya existe; si no, crea el encabezado
     if (!fs.existsSync(csvFilePath)) {
