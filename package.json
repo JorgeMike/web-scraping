@@ -4,7 +4,8 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc",
-    "start": "npm run build && node --env-file=.env build/index.js",
+    "start": "npm run build && node build/index.js",
+    "local": "npm run build && node --env-file=.env build/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
