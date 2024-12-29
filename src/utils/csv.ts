@@ -6,7 +6,10 @@ const csv_exist = (csv_name: string) => {
 
     // Verifica si el archivo CSV ya existe; si no, crea el encabezado
     if (!fs.existsSync(csvFilePath)) {
-        fs.writeFileSync(csvFilePath, 'Plataforma,Fecha,Hora,Nombre,Precio\n');
+        fs.writeFileSync(
+            csvFilePath,
+            'Plataforma,Fecha,Hora,Nombre,Marca,Precio\n'
+        );
     }
 
     return csvFilePath;
@@ -16,14 +19,15 @@ const csv_saver = (
     csvFilePath: string,
     plataforma: string,
     titulo: string,
+    brand: string,
     precio: string
 ) => {
     const fecha = new Date().toLocaleDateString('es-MX');
     const hora = new Date().toLocaleTimeString('es-MX');
-    
+
     fs.appendFileSync(
         csvFilePath,
-        `${plataforma},${fecha},${hora},"${titulo}",${precio}\n`
+        `${plataforma},${fecha},${hora},"${titulo}","${brand}",${precio}\n`
     );
 };
 

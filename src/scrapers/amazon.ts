@@ -1,7 +1,8 @@
 import { BrowserContext } from 'playwright';
 import { message_sender } from '../utils/twilo';
-import { csv_exist, csv_saver } from '../utils/csv';
 import { mouse_move, scroll_move, wait_random_time } from '../utils/events';
+
+/* El scrapping de amazon no se logra en las github actions */
 
 const amazon = async (
     contexto: BrowserContext,
@@ -10,7 +11,7 @@ const amazon = async (
     csv_name: string
 ) => {
     console.log('Iniciando scraping de Amazon');
-    const csvFilePath = csv_exist(csv_name);
+    //const csvFilePath = csv_exist(csv_name);
 
     const pagina = await contexto.newPage();
 
@@ -49,7 +50,7 @@ const amazon = async (
             }
         );
 
-        csv_saver(csvFilePath, 'Amazon', titulo, precio);
+        //csv_saver(csvFilePath, 'Amazon', titulo, precio);
 
         const precioNumerico = Number(precio);
         const precioMeta = precios_umbral.find((p) => precioNumerico < p);

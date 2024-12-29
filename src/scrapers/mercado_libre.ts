@@ -4,15 +4,18 @@ import { csv_exist, csv_saver } from '../utils/csv';
 import { mouse_move, scroll_move, wait_random_time } from '../utils/events';
 
 const mercado_libre = async (
-    contexto: BrowserContext,
+    context: BrowserContext,
     url: string,
     precios_umbral: number[],
-    csv_name: string
+    csv_name: string,
+    brand: string
 ) => {
-    console.log('Iniciando scraping de Mercado Libre');
+    console.log(
+        `Iniciando scraping de ${csv_name.toUpperCase()} - ${brand.toUpperCase()} en Mercado Libre`
+    );
     const csvFilePath = csv_exist(csv_name);
 
-    const pagina = await contexto.newPage();
+    const pagina = await context.newPage();
 
     await pagina.goto(url, {
         waitUntil: 'domcontentloaded',
@@ -52,7 +55,7 @@ const mercado_libre = async (
             }
         );
 
-        csv_saver(csvFilePath, 'MercadoLibre', titulo, precio);
+        csv_saver(csvFilePath, 'MercadoLibre', titulo, brand, precio);
 
         const precioNumerico = Number(precio);
         const precioMeta = precios_umbral.find((p) => precioNumerico < p);
@@ -60,7 +63,6 @@ const mercado_libre = async (
         if (precioMeta) {
             message_sender(titulo, precio, url, 'Mercado Libre', precioMeta);
         }
-
     } catch (error) {
         console.error(`Error, ${csv_name}`, error);
     } finally {
