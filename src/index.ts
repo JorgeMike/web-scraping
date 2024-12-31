@@ -143,6 +143,54 @@ const main = async () => {
         'voltti'
     );
 
+    await mercado_libre(
+        context,
+        'https://www.mercadolibre.com.mx/audifonos-in-ear-inalambrico-jbl-vibe-beam-negro-con-luz-led/p/MLM27155732#reco_item_pos=2&reco_backend=item_decorator&reco_backend_type=function&reco_client=home_items-decorator-legacy&reco_id=489323f7-ea1b-491b-b186-7881cb0d699c&reco_model=&c_id=/home/navigation-trends-recommendations/element&c_uid=368a6c9b-626b-4962-83a6-ed2ab41a8143&da_id=navigation_trend&da_position=2&id_origin=/home/dynamic_access&da_sort_algorithm=ranker',
+        [900, 950, 990],
+        'audifonos',
+        'jbl'
+    );
+
+    await mercado_libre(
+        context,
+        'https://www.mercadolibre.com.mx/audifonos-inalambricos-samsung-galaxy-buds-fe-blanco/p/MLM29107883#polycard_client=search-nordic&wid=MLM2778020948&sid=search&searchVariation=MLM29107883&position=8&search_layout=stack&type=product&tracking_id=3308eb28-c36a-4d08-9e4a-6458a3516704',
+        [900, 1100, 1200],
+        'audifonos',
+        'samsung'
+    );
+
+    await mercado_libre(
+        context,
+        'https://www.mercadolibre.com.mx/refrigerador-frigobar-hisense-rr33d6agx1-color-gris-con-capacidad-de-93l/p/MLM19818777#polycard_client=navigation&wid=MLM1684916186&sid=navigation',
+        [2800, 2900, 3000],
+        'frigobar',
+        'hisense'
+    );
+
+    await mercado_libre(
+        context,
+        'https://articulo.mercadolibre.com.mx/MLM-1402410801-tenis-para-hombre-nike-court-vision-low-next-nature-_JM?searchVariation=174386428942#polycard_client=search-nordic&searchVariation=174386428942&position=3&search_layout=grid&type=item&tracking_id=d60e4db4-081a-4219-ba3b-47afd9543d4d',
+        [1000, 1100, 1200],
+        'tenis',
+        'nike'
+    );
+
+    await mercado_libre(
+        context,
+        'https://www.mercadolibre.com.mx/silla-de-escritorio-boen-yt-588-ergonomica-gris-y-blanca-con-tapizado-de-malla/p/MLM28115753?pdp_filters=item_id:MLM2025673119#is_advertising=true&searchVariation=MLM28115753&position=3&search_layout=grid&type=pad&tracking_id=ce67d632-4219-4a5f-975e-aede75209e9f&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=3&ad_click_id=ZTI5YWI3NDktNzViZC00ODM2LTg1OGEtOGEzMGUwZTc1ODEw',
+        [1000, 1100, 1200],
+        'sillas',
+        'boen'
+    );
+
+    await mercado_libre(
+        context,
+        'https://www.mercadolibre.com.mx/silla-de-oficina-ejecutiva-reclinable-ergonomica-reposapies-color-negro/p/MLM23039205?pdp_filters=item_id:MLM2152854718#is_advertising=true&searchVariation=MLM23039205&position=1&search_layout=grid&type=pad&tracking_id=ebc6e957-0b7b-4b71-b1db-dea1986a1c0d&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=1&ad_click_id=ZjUwMTY4ZDctZDRlNi00NTM3LThhYTAtYWQyNzJkY2RhOGU1',
+        [1000, 1100, 1200],
+        'sillas',
+        'ouo'
+    );
+
     console.log('Scraping concluido');
 
     await context.close();
