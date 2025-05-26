@@ -1,593 +1,297 @@
-Plataforma,Fecha,Hora,Nombre,Marca,Precio
-MercadoLibre,29/12/2024,2:16:39 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",206.96
-MercadoLibre,29/12/2024,2:17:02 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,29/12/2024,12:33:56 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",206.96
-MercadoLibre,29/12/2024,12:34:19 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,30/12/2024,1:23:28 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",206.96
-MercadoLibre,30/12/2024,1:23:53 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,30/12/2024,12:37:01 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",208.08
-MercadoLibre,30/12/2024,12:37:22 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,31/12/2024,1:20:45 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",208.08
-MercadoLibre,31/12/2024,1:21:05 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,31/12/2024,12:36:08 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",211.43
-MercadoLibre,31/12/2024,12:36:26 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,1/1/2025,1:27:45 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",211.43
-MercadoLibre,1/1/2025,1:28:08 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,1/1/2025,12:35:59 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",211.43
-MercadoLibre,1/1/2025,12:36:22 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,2/1/2025,1:20:28 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",211.43
-MercadoLibre,2/1/2025,1:20:50 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,2/1/2025,12:36:41 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",212.25
-MercadoLibre,2/1/2025,12:37:05 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,3/1/2025,1:21:47 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",212.25
-MercadoLibre,3/1/2025,1:22:08 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,3/1/2025,12:36:35 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",215.79
-MercadoLibre,3/1/2025,12:36:58 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,4/1/2025,1:20:38 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",215.79
-MercadoLibre,4/1/2025,1:21:03 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,4/1/2025,12:34:56 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",227.74
-MercadoLibre,4/1/2025,12:35:12 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,5/1/2025,1:27:21 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",227.74
-MercadoLibre,5/1/2025,1:27:37 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,5/1/2025,12:34:32 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",227.74
-MercadoLibre,5/1/2025,12:34:50 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,6/1/2025,1:24:52 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",227.74
-MercadoLibre,6/1/2025,1:25:11 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,6/1/2025,12:38:10 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",228.18
-MercadoLibre,6/1/2025,12:38:36 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,7/1/2025,1:22:10 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",228.18
-MercadoLibre,7/1/2025,1:22:31 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,7/1/2025,12:37:57 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",225.20
-MercadoLibre,7/1/2025,12:38:17 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,8/1/2025,1:21:48 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",225.20
-MercadoLibre,8/1/2025,1:22:07 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,8/1/2025,12:37:57 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",225.75
-MercadoLibre,8/1/2025,12:38:17 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,9/1/2025,1:21:23 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",225.75
-MercadoLibre,9/1/2025,1:21:42 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,9/1/2025,12:37:16 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",226.75
-MercadoLibre,9/1/2025,12:37:41 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,10/1/2025,1:23:36 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",226.75
-MercadoLibre,10/1/2025,1:23:58 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,10/1/2025,12:37:42 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",227.85
-MercadoLibre,10/1/2025,12:38:03 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,11/1/2025,1:21:47 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",227.85
-MercadoLibre,11/1/2025,1:22:13 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,11/1/2025,12:34:33 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",227.85
-MercadoLibre,11/1/2025,12:34:56 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,12/1/2025,1:28:23 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",227.85
-MercadoLibre,12/1/2025,1:28:42 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,12/1/2025,12:34:18 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",227.85
-MercadoLibre,12/1/2025,12:34:36 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,13/1/2025,1:25:25 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",227.85
-MercadoLibre,13/1/2025,1:25:50 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,13/1/2025,12:38:44 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",205.34
-MercadoLibre,13/1/2025,12:39:05 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,14/1/2025,1:18:13 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",205.34
-MercadoLibre,14/1/2025,1:18:38 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,14/1/2025,12:35:59 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",224.80
-MercadoLibre,14/1/2025,12:36:25 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,15/1/2025,1:20:04 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",224.80
-MercadoLibre,15/1/2025,1:20:28 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,15/1/2025,12:36:25 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",235.44
-MercadoLibre,15/1/2025,12:36:46 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,16/1/2025,1:19:24 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",235.44
-MercadoLibre,16/1/2025,1:19:49 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,16/1/2025,12:36:04 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",244.64
-MercadoLibre,16/1/2025,12:36:28 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,17/1/2025,1:18:55 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",244.64
-MercadoLibre,17/1/2025,1:19:13 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,17/1/2025,12:35:30 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",241.23
-MercadoLibre,17/1/2025,12:35:55 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,18/1/2025,1:17:14 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",241.23
-MercadoLibre,18/1/2025,1:17:33 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,18/1/2025,12:32:52 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",241.23
-MercadoLibre,18/1/2025,12:33:14 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,19/1/2025,1:24:57 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",241.23
-MercadoLibre,19/1/2025,1:25:23 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,19/1/2025,12:32:37 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",241.23
-MercadoLibre,19/1/2025,12:32:56 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,20/1/2025,1:21:00 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",241.23
-MercadoLibre,20/1/2025,1:21:17 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,20/1/2025,12:36:54 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",236.70
-MercadoLibre,20/1/2025,12:37:13 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,21/1/2025,1:19:04 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",236.70
-MercadoLibre,21/1/2025,1:19:23 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,21/1/2025,12:37:32 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",235.80
-MercadoLibre,21/1/2025,12:37:52 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,22/1/2025,1:20:55 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",235.80
-MercadoLibre,22/1/2025,1:21:18 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,22/1/2025,12:36:50 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",233.64
-MercadoLibre,22/1/2025,12:37:11 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,23/1/2025,1:19:27 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",233.64
-MercadoLibre,23/1/2025,1:19:43 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,23/1/2025,12:36:58 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",232.63
-MercadoLibre,23/1/2025,12:37:20 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,24/1/2025,1:19:40 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",232.63
-MercadoLibre,24/1/2025,1:19:56 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,24/1/2025,12:35:56 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",215.29
-MercadoLibre,24/1/2025,12:36:18 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,25/1/2025,1:16:10 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",215.29
-MercadoLibre,25/1/2025,1:16:36 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,25/1/2025,12:32:38 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",215.29
-MercadoLibre,25/1/2025,12:32:58 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,26/1/2025,1:22:11 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",215.29
-MercadoLibre,26/1/2025,1:22:36 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,26/1/2025,12:32:30 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",215.29
-MercadoLibre,26/1/2025,12:32:47 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,28/1/2025,1:19:13 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",217.84
-MercadoLibre,28/1/2025,1:19:31 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,28/1/2025,12:36:16 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",219.95
-MercadoLibre,28/1/2025,12:36:36 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,29/1/2025,1:19:12 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",219.95
-MercadoLibre,29/1/2025,1:19:35 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,29/1/2025,12:36:17 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",218.26
-MercadoLibre,29/1/2025,12:36:33 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,30/1/2025,1:18:25 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",218.26
-MercadoLibre,30/1/2025,1:18:49 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,30/1/2025,12:36:10 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",217.73
-MercadoLibre,30/1/2025,12:36:31 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,31/1/2025,1:20:00 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",217.73
-MercadoLibre,31/1/2025,1:20:21 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,31/1/2025,12:35:38 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",219.74
-MercadoLibre,31/1/2025,12:36:01 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,1/2/2025,1:23:47 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",230.95
-MercadoLibre,1/2/2025,1:24:08 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,1/2/2025,12:33:15 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",230.95
-MercadoLibre,1/2/2025,12:33:41 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,2/2/2025,1:23:31 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",230.95
-MercadoLibre,2/2/2025,1:23:49 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,2/2/2025,12:32:38 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",227.00
-MercadoLibre,2/2/2025,12:33:01 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,3/2/2025,1:20:48 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",227.00
-MercadoLibre,3/2/2025,1:21:14 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,3/2/2025,12:36:30 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",232.26
-MercadoLibre,3/2/2025,12:36:47 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,4/2/2025,1:19:51 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",232.26
-MercadoLibre,4/2/2025,1:20:13 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,4/2/2025,12:37:09 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",224.27
-MercadoLibre,4/2/2025,12:37:31 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,5/2/2025,1:20:49 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",224.27
-MercadoLibre,5/2/2025,1:21:15 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,5/2/2025,12:36:55 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",227.04
-MercadoLibre,5/2/2025,12:37:15 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,6/2/2025,1:21:20 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",227.04
-MercadoLibre,6/2/2025,1:21:37 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,6/2/2025,12:37:05 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",227.37
-MercadoLibre,6/2/2025,12:37:30 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,7/2/2025,1:21:15 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",227.37
-MercadoLibre,7/2/2025,1:21:38 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,7/2/2025,12:35:51 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",226.38
-MercadoLibre,7/2/2025,12:36:07 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,8/2/2025,1:18:46 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",226.38
-MercadoLibre,8/2/2025,1:19:07 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,8/2/2025,12:33:28 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",226.38
-MercadoLibre,8/2/2025,12:33:51 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,9/2/2025,1:24:45 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",226.38
-MercadoLibre,9/2/2025,1:25:07 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,9/2/2025,12:32:59 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",226.38
-MercadoLibre,9/2/2025,12:33:19 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",199.66
-MercadoLibre,10/2/2025,1:21:57 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",226.38
-MercadoLibre,10/2/2025,1:22:18 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,10/2/2025,12:37:20 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",227.48
-MercadoLibre,10/2/2025,12:37:43 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,11/2/2025,1:20:38 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",227.48
-MercadoLibre,11/2/2025,1:20:56 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,11/2/2025,12:37:21 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",227.48
-MercadoLibre,11/2/2025,12:37:45 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,12/2/2025,1:21:34 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",227.48
-MercadoLibre,12/2/2025,1:21:52 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,12/2/2025,12:37:15 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",229.72
-MercadoLibre,12/2/2025,12:37:35 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,13/2/2025,1:21:17 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",229.72
-MercadoLibre,13/2/2025,1:21:40 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,13/2/2025,12:37:18 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",229.83
-MercadoLibre,13/2/2025,12:37:35 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,14/2/2025,1:21:01 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",229.83
-MercadoLibre,14/2/2025,1:21:25 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,14/2/2025,12:37:18 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",227.83
-MercadoLibre,14/2/2025,12:37:42 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,15/2/2025,1:20:05 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",227.83
-MercadoLibre,15/2/2025,1:20:24 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,15/2/2025,12:33:35 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",212.07
-MercadoLibre,15/2/2025,12:33:52 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,16/2/2025,1:27:06 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",212.07
-MercadoLibre,16/2/2025,1:27:25 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,16/2/2025,12:36:30 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",220.87
-MercadoLibre,16/2/2025,12:36:52 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,17/2/2025,1:24:09 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",220.87
-MercadoLibre,17/2/2025,1:24:30 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,17/2/2025,12:38:23 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",220.87
-MercadoLibre,17/2/2025,12:38:41 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,18/2/2025,1:21:15 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",220.87
-MercadoLibre,18/2/2025,1:21:35 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,18/2/2025,12:36:20 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",219.36
-MercadoLibre,18/2/2025,12:36:39 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,19/2/2025,1:21:25 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",219.36
-MercadoLibre,19/2/2025,1:21:47 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,19/2/2025,12:35:23 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",219.25
-MercadoLibre,19/2/2025,12:35:47 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,20/2/2025,1:21:35 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",219.25
-MercadoLibre,20/2/2025,1:21:53 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,20/2/2025,12:37:51 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",220.87
-MercadoLibre,20/2/2025,12:38:10 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,21/2/2025,1:22:18 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",220.87
-MercadoLibre,21/2/2025,1:22:41 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,21/2/2025,12:37:17 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",220.33
-MercadoLibre,21/2/2025,12:37:38 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,22/2/2025,1:19:52 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",220.33
-MercadoLibre,22/2/2025,1:20:10 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,22/2/2025,12:33:30 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",220.33
-MercadoLibre,22/2/2025,12:33:51 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,23/2/2025,1:26:54 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",220.33
-MercadoLibre,23/2/2025,1:27:10 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,23/2/2025,12:34:02 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",220.33
-MercadoLibre,23/2/2025,12:34:24 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,24/2/2025,1:24:19 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",220.33
-MercadoLibre,24/2/2025,1:24:44 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,24/2/2025,12:38:51 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",212.28
-MercadoLibre,24/2/2025,12:39:07 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,25/2/2025,1:23:04 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",212.28
-MercadoLibre,25/2/2025,1:23:27 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,25/2/2025,12:38:11 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",228.94
-MercadoLibre,25/2/2025,12:38:29 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,26/2/2025,1:23:12 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",228.94
-MercadoLibre,26/2/2025,1:23:30 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,26/2/2025,12:38:27 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",228.39
-MercadoLibre,26/2/2025,12:38:49 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,27/2/2025,1:23:32 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",228.39
-MercadoLibre,27/2/2025,1:23:55 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,27/2/2025,12:38:07 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",227.61
-MercadoLibre,27/2/2025,12:38:29 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,28/2/2025,1:23:38 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",227.61
-MercadoLibre,28/2/2025,1:23:56 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,28/2/2025,12:37:44 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",228.39
-MercadoLibre,28/2/2025,12:38:01 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,1/3/2025,1:28:32 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",228.39
-MercadoLibre,1/3/2025,1:28:49 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,1/3/2025,12:35:18 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",214.43
-MercadoLibre,1/3/2025,12:35:43 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,2/3/2025,1:27:44 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",214.43
-MercadoLibre,2/3/2025,1:28:07 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,2/3/2025,12:34:21 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",214.43
-MercadoLibre,2/3/2025,12:34:44 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,3/3/2025,1:25:51 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",214.43
-MercadoLibre,3/3/2025,1:26:15 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,3/3/2025,12:38:47 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",214.33
-MercadoLibre,3/3/2025,12:39:10 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,4/3/2025,1:24:24 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",214.33
-MercadoLibre,4/3/2025,1:24:40 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,4/3/2025,12:38:30 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",219.03
-MercadoLibre,4/3/2025,12:38:53 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,5/3/2025,1:24:18 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",219.03
-MercadoLibre,5/3/2025,1:24:35 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,5/3/2025,12:38:34 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",209.30
-MercadoLibre,5/3/2025,12:38:52 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,6/3/2025,1:24:58 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",209.30
-MercadoLibre,6/3/2025,1:25:22 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,6/3/2025,12:38:59 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",214.64
-MercadoLibre,6/3/2025,12:39:25 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,7/3/2025,1:25:25 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",214.64
-MercadoLibre,7/3/2025,1:25:45 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,7/3/2025,12:37:48 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",212.24
-MercadoLibre,7/3/2025,12:38:13 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,8/3/2025,1:09:11 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",212.24
-MercadoLibre,8/3/2025,1:09:34 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,8/3/2025,12:29:12 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",212.24
-MercadoLibre,8/3/2025,12:29:28 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,9/3/2025,1:14:16 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",212.24
-MercadoLibre,9/3/2025,1:14:37 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,9/3/2025,12:28:47 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",212.24
-MercadoLibre,9/3/2025,12:29:08 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,10/3/2025,1:12:23 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",212.24
-MercadoLibre,10/3/2025,1:12:41 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,10/3/2025,12:39:32 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",212.45
-MercadoLibre,10/3/2025,12:39:56 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,11/3/2025,1:25:34 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",212.45
-MercadoLibre,11/3/2025,1:25:50 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,11/3/2025,12:39:25 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",213.28
-MercadoLibre,11/3/2025,12:39:46 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,12/3/2025,1:24:31 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",213.28
-MercadoLibre,12/3/2025,1:24:52 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,12/3/2025,12:38:58 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",218.44
-MercadoLibre,12/3/2025,12:39:21 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,13/3/2025,1:25:37 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",218.44
-MercadoLibre,13/3/2025,1:25:56 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,13/3/2025,12:39:49 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",217.69
-MercadoLibre,13/3/2025,12:40:10 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,14/3/2025,1:24:27 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",217.69
-MercadoLibre,14/3/2025,1:24:51 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,14/3/2025,12:37:46 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",223.60
-MercadoLibre,14/3/2025,12:38:06 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,15/3/2025,1:23:51 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",223.60
-MercadoLibre,15/3/2025,1:24:12 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,15/3/2025,12:35:26 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",223.60
-MercadoLibre,15/3/2025,12:35:43 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,16/3/2025,1:30:55 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",223.60
-MercadoLibre,16/3/2025,1:31:18 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,16/3/2025,12:35:32 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",223.60
-MercadoLibre,16/3/2025,12:35:52 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,17/3/2025,1:27:51 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",223.60
-MercadoLibre,17/3/2025,1:28:12 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,17/3/2025,12:40:08 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",222.49
-MercadoLibre,17/3/2025,12:40:28 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,18/3/2025,1:25:38 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",222.49
-MercadoLibre,18/3/2025,1:25:57 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,18/3/2025,12:39:52 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",222.93
-MercadoLibre,18/3/2025,12:40:11 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,19/3/2025,1:26:04 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",222.93
-MercadoLibre,19/3/2025,1:26:25 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,19/3/2025,12:39:30 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",223.16
-MercadoLibre,19/3/2025,12:39:52 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,20/3/2025,1:25:38 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",223.16
-MercadoLibre,20/3/2025,1:25:54 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,20/3/2025,12:38:20 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",225.05
-MercadoLibre,20/3/2025,12:38:43 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,21/3/2025,1:26:38 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",225.05
-MercadoLibre,21/3/2025,1:26:57 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,21/3/2025,12:38:28 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",225.72
-MercadoLibre,21/3/2025,12:38:50 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,22/3/2025,1:24:34 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",225.72
-MercadoLibre,22/3/2025,1:24:58 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,22/3/2025,12:35:29 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",225.72
-MercadoLibre,22/3/2025,12:35:45 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,23/3/2025,1:38:44 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",225.72
-MercadoLibre,23/3/2025,1:39:05 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,23/3/2025,12:35:50 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",225.72
-MercadoLibre,23/3/2025,12:36:15 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,24/3/2025,1:28:35 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",225.72
-MercadoLibre,24/3/2025,1:28:52 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,24/3/2025,12:40:34 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",225.49
-MercadoLibre,24/3/2025,12:40:53 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,25/3/2025,1:27:21 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",225.49
-MercadoLibre,25/3/2025,1:27:45 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,25/3/2025,12:39:51 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",223.60
-MercadoLibre,25/3/2025,12:40:15 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,26/3/2025,1:26:52 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",223.60
-MercadoLibre,26/3/2025,1:27:08 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,26/3/2025,12:39:53 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",224.60
-MercadoLibre,26/3/2025,12:40:13 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,27/3/2025,1:26:43 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",224.60
-MercadoLibre,27/3/2025,1:27:07 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,27/3/2025,12:40:19 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",219.00
-MercadoLibre,27/3/2025,12:40:41 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,28/3/2025,1:26:24 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",219.00
-MercadoLibre,28/3/2025,1:26:47 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,28/3/2025,12:39:05 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",220.19
-MercadoLibre,28/3/2025,12:39:29 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,29/3/2025,1:26:08 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",220.19
-MercadoLibre,29/3/2025,1:26:27 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,29/3/2025,12:36:50 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",217.34
-MercadoLibre,29/3/2025,12:37:06 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,30/3/2025,1:40:41 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",217.34
-MercadoLibre,30/3/2025,1:40:59 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,30/3/2025,12:36:50 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",217.34
-MercadoLibre,30/3/2025,12:37:11 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,31/3/2025,1:30:56 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",203.09
-MercadoLibre,31/3/2025,1:31:17 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,31/3/2025,12:40:43 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",218.73
-MercadoLibre,31/3/2025,12:41:00 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,1/4/2025,1:45:08 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",218.73
-MercadoLibre,1/4/2025,1:45:29 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,1/4/2025,12:41:27 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",224.71
-MercadoLibre,1/4/2025,12:41:50 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,2/4/2025,1:28:36 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",224.71
-MercadoLibre,2/4/2025,1:28:58 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,2/4/2025,12:41:09 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",223.18
-MercadoLibre,2/4/2025,12:41:34 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,3/4/2025,1:26:54 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",223.18
-MercadoLibre,3/4/2025,1:27:18 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,3/4/2025,12:40:17 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",220.33
-MercadoLibre,3/4/2025,12:40:40 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,4/4/2025,1:27:00 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",220.33
-MercadoLibre,4/4/2025,1:27:22 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,4/4/2025,12:39:47 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",221.21
-MercadoLibre,4/4/2025,12:40:05 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,5/4/2025,1:26:02 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",221.21
-MercadoLibre,5/4/2025,1:26:26 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,5/4/2025,12:36:08 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",221.21
-MercadoLibre,5/4/2025,12:36:28 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,6/4/2025,1:39:33 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",221.21
-MercadoLibre,6/4/2025,1:39:58 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,6/4/2025,12:36:27 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",221.21
-MercadoLibre,6/4/2025,12:36:53 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,7/4/2025,1:29:50 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",218.78
-MercadoLibre,7/4/2025,1:30:06 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,7/4/2025,12:41:29 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",225.38
-MercadoLibre,7/4/2025,12:41:47 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,8/4/2025,1:27:40 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",225.38
-MercadoLibre,8/4/2025,1:28:00 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,8/4/2025,12:40:57 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",206.79
-MercadoLibre,8/4/2025,12:41:20 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,9/4/2025,1:28:01 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",206.79
-MercadoLibre,9/4/2025,1:28:25 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,9/4/2025,12:41:04 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",226.25
-MercadoLibre,9/4/2025,12:41:28 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,10/4/2025,1:27:44 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",226.25
-MercadoLibre,10/4/2025,1:28:09 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,10/4/2025,12:40:55 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",227.72
-MercadoLibre,10/4/2025,12:41:21 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,11/4/2025,1:28:59 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",227.72
-MercadoLibre,11/4/2025,1:29:21 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,11/4/2025,12:40:25 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",225.61
-MercadoLibre,11/4/2025,12:40:44 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,12/4/2025,1:26:23 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",225.61
-MercadoLibre,12/4/2025,1:26:41 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,12/4/2025,12:36:25 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",216.59
-MercadoLibre,12/4/2025,12:36:42 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,13/4/2025,2:55:31 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",216.59
-MercadoLibre,13/4/2025,2:55:49 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,13/4/2025,12:37:03 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",216.59
-MercadoLibre,13/4/2025,12:37:22 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,14/4/2025,1:31:14 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",216.59
-MercadoLibre,14/4/2025,1:31:39 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,14/4/2025,12:41:04 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",214.05
-MercadoLibre,14/4/2025,12:41:25 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,15/4/2025,1:30:27 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",214.05
-MercadoLibre,15/4/2025,1:30:48 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,15/4/2025,12:40:31 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",212.57
-MercadoLibre,15/4/2025,12:40:52 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,16/4/2025,1:29:59 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",212.57
-MercadoLibre,16/4/2025,1:30:17 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,16/4/2025,12:41:10 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",212.78
-MercadoLibre,16/4/2025,12:41:31 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,17/4/2025,1:28:39 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",212.78
-MercadoLibre,17/4/2025,1:29:00 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,17/4/2025,12:40:48 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",216.62
-MercadoLibre,17/4/2025,12:41:05 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,18/4/2025,1:28:03 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",216.62
-MercadoLibre,18/4/2025,1:28:20 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,18/4/2025,12:38:47 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",216.62
-MercadoLibre,18/4/2025,12:39:09 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,19/4/2025,1:25:41 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",216.62
-MercadoLibre,19/4/2025,1:25:57 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,19/4/2025,12:36:34 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",216.62
-MercadoLibre,19/4/2025,12:36:52 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,20/4/2025,1:42:27 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",216.62
-MercadoLibre,20/4/2025,1:42:45 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,20/4/2025,12:36:48 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",216.62
-MercadoLibre,20/4/2025,12:37:05 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,21/4/2025,1:41:24 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",216.62
-MercadoLibre,21/4/2025,1:41:42 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,21/4/2025,12:40:07 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",213.70
-MercadoLibre,21/4/2025,12:40:27 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,22/4/2025,1:29:30 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",213.70
-MercadoLibre,22/4/2025,1:29:48 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,22/4/2025,12:40:36 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",213.37
-MercadoLibre,22/4/2025,12:40:58 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,23/4/2025,1:29:30 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",213.37
-MercadoLibre,23/4/2025,1:29:54 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,23/4/2025,12:42:55 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",199.33
-MercadoLibre,23/4/2025,12:43:18 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,24/4/2025,1:30:02 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",199.33
-MercadoLibre,24/4/2025,1:30:27 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,24/4/2025,12:42:12 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",215.08
-MercadoLibre,24/4/2025,12:42:32 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,25/4/2025,1:30:35 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",215.08
-MercadoLibre,25/4/2025,1:31:00 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,25/4/2025,12:41:10 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",216.06
-MercadoLibre,25/4/2025,12:41:30 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,26/4/2025,1:27:24 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",216.06
-MercadoLibre,26/4/2025,1:27:48 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,26/4/2025,12:37:43 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",216.06
-MercadoLibre,26/4/2025,12:38:02 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,27/4/2025,1:42:50 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",216.06
-MercadoLibre,27/4/2025,1:43:13 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,27/4/2025,12:38:06 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",216.06
-MercadoLibre,27/4/2025,12:38:31 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,28/4/2025,1:41:00 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",216.06
-MercadoLibre,28/4/2025,1:41:21 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,28/4/2025,12:43:43 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",214.31
-MercadoLibre,28/4/2025,12:44:08 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,29/4/2025,1:31:22 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",214.31
-MercadoLibre,29/4/2025,1:31:44 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,29/4/2025,12:43:22 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",215.63
-MercadoLibre,29/4/2025,12:43:43 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,30/4/2025,1:30:32 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",215.63
-MercadoLibre,30/4/2025,1:30:49 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,30/4/2025,12:41:09 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",199.33
-MercadoLibre,30/4/2025,12:41:35 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,1/5/2025,1:46:23 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",199.33
-MercadoLibre,1/5/2025,1:46:39 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,1/5/2025,12:40:39 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",215.85
-MercadoLibre,1/5/2025,12:40:57 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,2/5/2025,1:31:04 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",215.85
-MercadoLibre,2/5/2025,1:31:24 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,2/5/2025,12:40:37 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",215.96
-MercadoLibre,2/5/2025,12:40:58 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,3/5/2025,1:29:16 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",215.96
-MercadoLibre,3/5/2025,1:29:34 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,3/5/2025,12:37:51 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",215.96
-MercadoLibre,3/5/2025,12:38:14 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,4/5/2025,1:47:11 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",215.96
-MercadoLibre,4/5/2025,1:47:35 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,4/5/2025,12:38:06 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",215.96
-MercadoLibre,4/5/2025,12:38:31 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,5/5/2025,1:43:07 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",215.96
-MercadoLibre,5/5/2025,1:43:30 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,5/5/2025,12:41:49 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",214.75
-MercadoLibre,5/5/2025,12:42:13 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,6/5/2025,1:31:31 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",214.75
-MercadoLibre,6/5/2025,1:31:57 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,6/5/2025,12:43:31 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",220.49
-MercadoLibre,6/5/2025,12:43:51 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,7/5/2025,1:40:53 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",224.25
-MercadoLibre,7/5/2025,1:41:12 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,7/5/2025,12:43:43 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",223.34
-MercadoLibre,7/5/2025,12:44:02 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,8/5/2025,1:41:11 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",223.34
-MercadoLibre,8/5/2025,1:41:30 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,8/5/2025,12:42:08 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",226.60
-MercadoLibre,8/5/2025,12:42:27 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,9/5/2025,1:40:14 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",234.07
-MercadoLibre,9/5/2025,1:40:38 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,9/5/2025,12:40:45 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",233.00
-MercadoLibre,9/5/2025,12:41:04 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,10/5/2025,1:28:46 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",233.00
-MercadoLibre,10/5/2025,1:29:05 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,10/5/2025,12:37:38 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",233.00
-MercadoLibre,10/5/2025,12:37:59 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,11/5/2025,1:44:59 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",233.00
-MercadoLibre,11/5/2025,1:45:24 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,11/5/2025,12:38:04 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",233.00
-MercadoLibre,11/5/2025,12:38:28 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,12/5/2025,1:43:56 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",233.00
-MercadoLibre,12/5/2025,1:44:16 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,12/5/2025,12:43:27 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",233.36
-MercadoLibre,12/5/2025,12:43:48 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,13/5/2025,1:41:48 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",233.36
-MercadoLibre,13/5/2025,1:42:11 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,13/5/2025,12:43:54 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",233.95
-MercadoLibre,13/5/2025,12:44:17 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,14/5/2025,1:40:26 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",233.95
-MercadoLibre,14/5/2025,1:40:44 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,14/5/2025,12:42:29 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",231.22
-MercadoLibre,14/5/2025,12:42:48 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,15/5/2025,1:30:11 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",231.22
-MercadoLibre,15/5/2025,1:30:36 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,15/5/2025,12:42:44 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",227.76
-MercadoLibre,15/5/2025,12:43:04 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,16/5/2025,1:41:19 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",235.15
-MercadoLibre,16/5/2025,1:41:42 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,16/5/2025,12:42:00 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",239.95
-MercadoLibre,16/5/2025,12:42:18 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,17/5/2025,1:30:50 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",239.95
-MercadoLibre,17/5/2025,1:31:11 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,17/5/2025,12:38:28 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",239.95
-MercadoLibre,17/5/2025,12:38:46 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,18/5/2025,1:46:29 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",239.95
-MercadoLibre,18/5/2025,1:46:55 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,18/5/2025,12:38:55 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",239.95
-MercadoLibre,18/5/2025,12:39:15 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,19/5/2025,1:45:46 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",236.24
-MercadoLibre,19/5/2025,1:46:06 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,19/5/2025,12:44:05 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",236.00
-MercadoLibre,19/5/2025,12:44:22 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,20/5/2025,1:42:31 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",236.00
-MercadoLibre,20/5/2025,1:42:47 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,20/5/2025,12:44:02 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",226.47
-MercadoLibre,20/5/2025,12:44:21 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,21/5/2025,1:41:48 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",226.47
-MercadoLibre,21/5/2025,1:42:08 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,21/5/2025,12:42:59 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",226.82
-MercadoLibre,21/5/2025,12:43:19 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,22/5/2025,1:41:16 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",226.82
-MercadoLibre,22/5/2025,1:41:37 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,22/5/2025,12:43:06 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",235.51
-MercadoLibre,22/5/2025,12:43:29 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,23/5/2025,1:41:17 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",235.51
-MercadoLibre,23/5/2025,1:41:36 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,23/5/2025,12:41:34 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",233.70
-MercadoLibre,23/5/2025,12:41:56 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,24/5/2025,1:30:06 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",233.70
-MercadoLibre,24/5/2025,1:30:29 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,24/5/2025,12:38:19 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",233.70
-MercadoLibre,24/5/2025,12:38:38 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,25/5/2025,1:48:47 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",233.70
-MercadoLibre,25/5/2025,1:49:10 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,25/5/2025,12:38:41 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",233.70
-MercadoLibre,25/5/2025,12:39:06 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,26/5/2025,1:44:19 a.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",213.90
-MercadoLibre,26/5/2025,1:44:40 a.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
-MercadoLibre,26/5/2025,12:41:49 p.m.,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas","tableware",210.81
-MercadoLibre,26/5/2025,12:42:06 p.m.,"Juego De Cubiertos De Acero Inoxidable 24 Unidades Sunoffer Grueso","tableware",undefined.00
+Plataforma,Fecha,Hora,Nombre,Marca,Precio,FechaHora
+MercadoLibre,29/12/2024,2:16:39 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,206.96,2024-12-29 02:16:39
+MercadoLibre,29/12/2024,12:33:56 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,206.96,2024-12-29 12:33:56
+MercadoLibre,30/12/2024,1:23:28 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,206.96,2024-12-30 01:23:28
+MercadoLibre,30/12/2024,12:37:01 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,208.08,2024-12-30 12:37:01
+MercadoLibre,31/12/2024,1:20:45 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,208.08,2024-12-31 01:20:45
+MercadoLibre,31/12/2024,12:36:08 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,211.43,2024-12-31 12:36:08
+MercadoLibre,1/1/2025,1:27:45 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,211.43,2025-01-01 01:27:45
+MercadoLibre,1/1/2025,12:35:59 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,211.43,2025-01-01 12:35:59
+MercadoLibre,2/1/2025,1:20:28 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,211.43,2025-01-02 01:20:28
+MercadoLibre,2/1/2025,12:36:41 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,212.25,2025-01-02 12:36:41
+MercadoLibre,3/1/2025,1:21:47 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,212.25,2025-01-03 01:21:47
+MercadoLibre,3/1/2025,12:36:35 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,215.79,2025-01-03 12:36:35
+MercadoLibre,4/1/2025,1:20:38 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,215.79,2025-01-04 01:20:38
+MercadoLibre,4/1/2025,12:34:56 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,227.74,2025-01-04 12:34:56
+MercadoLibre,5/1/2025,1:27:21 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,227.74,2025-01-05 01:27:21
+MercadoLibre,5/1/2025,12:34:32 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,227.74,2025-01-05 12:34:32
+MercadoLibre,6/1/2025,1:24:52 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,227.74,2025-01-06 01:24:52
+MercadoLibre,6/1/2025,12:38:10 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,228.18,2025-01-06 12:38:10
+MercadoLibre,7/1/2025,1:22:10 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,228.18,2025-01-07 01:22:10
+MercadoLibre,7/1/2025,12:37:57 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,225.2,2025-01-07 12:37:57
+MercadoLibre,8/1/2025,1:21:48 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,225.2,2025-01-08 01:21:48
+MercadoLibre,8/1/2025,12:37:57 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,225.75,2025-01-08 12:37:57
+MercadoLibre,9/1/2025,1:21:23 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,225.75,2025-01-09 01:21:23
+MercadoLibre,9/1/2025,12:37:16 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,226.75,2025-01-09 12:37:16
+MercadoLibre,10/1/2025,1:23:36 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,226.75,2025-01-10 01:23:36
+MercadoLibre,10/1/2025,12:37:42 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,227.85,2025-01-10 12:37:42
+MercadoLibre,11/1/2025,1:21:47 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,227.85,2025-01-11 01:21:47
+MercadoLibre,11/1/2025,12:34:33 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,227.85,2025-01-11 12:34:33
+MercadoLibre,12/1/2025,1:28:23 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,227.85,2025-01-12 01:28:23
+MercadoLibre,12/1/2025,12:34:18 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,227.85,2025-01-12 12:34:18
+MercadoLibre,13/1/2025,1:25:25 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,227.85,2025-01-13 01:25:25
+MercadoLibre,13/1/2025,12:38:44 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,205.34,2025-01-13 12:38:44
+MercadoLibre,14/1/2025,1:18:13 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,205.34,2025-01-14 01:18:13
+MercadoLibre,14/1/2025,12:35:59 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,224.8,2025-01-14 12:35:59
+MercadoLibre,15/1/2025,1:20:04 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,224.8,2025-01-15 01:20:04
+MercadoLibre,15/1/2025,12:36:25 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,235.44,2025-01-15 12:36:25
+MercadoLibre,16/1/2025,1:19:24 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,235.44,2025-01-16 01:19:24
+MercadoLibre,16/1/2025,12:36:04 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,244.64,2025-01-16 12:36:04
+MercadoLibre,17/1/2025,1:18:55 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,244.64,2025-01-17 01:18:55
+MercadoLibre,17/1/2025,12:35:30 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,241.23,2025-01-17 12:35:30
+MercadoLibre,18/1/2025,1:17:14 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,241.23,2025-01-18 01:17:14
+MercadoLibre,18/1/2025,12:32:52 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,241.23,2025-01-18 12:32:52
+MercadoLibre,19/1/2025,1:24:57 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,241.23,2025-01-19 01:24:57
+MercadoLibre,19/1/2025,12:32:37 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,241.23,2025-01-19 12:32:37
+MercadoLibre,20/1/2025,1:21:00 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,241.23,2025-01-20 01:21:00
+MercadoLibre,20/1/2025,12:36:54 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,236.7,2025-01-20 12:36:54
+MercadoLibre,21/1/2025,1:19:04 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,236.7,2025-01-21 01:19:04
+MercadoLibre,21/1/2025,12:37:32 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,235.8,2025-01-21 12:37:32
+MercadoLibre,22/1/2025,1:20:55 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,235.8,2025-01-22 01:20:55
+MercadoLibre,22/1/2025,12:36:50 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,233.64,2025-01-22 12:36:50
+MercadoLibre,23/1/2025,1:19:27 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,233.64,2025-01-23 01:19:27
+MercadoLibre,23/1/2025,12:36:58 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,232.63,2025-01-23 12:36:58
+MercadoLibre,24/1/2025,1:19:40 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,232.63,2025-01-24 01:19:40
+MercadoLibre,24/1/2025,12:35:56 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,215.29,2025-01-24 12:35:56
+MercadoLibre,25/1/2025,1:16:10 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,215.29,2025-01-25 01:16:10
+MercadoLibre,25/1/2025,12:32:38 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,215.29,2025-01-25 12:32:38
+MercadoLibre,26/1/2025,1:22:11 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,215.29,2025-01-26 01:22:11
+MercadoLibre,26/1/2025,12:32:30 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,215.29,2025-01-26 12:32:30
+MercadoLibre,28/1/2025,1:19:13 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,217.84,2025-01-28 01:19:13
+MercadoLibre,28/1/2025,12:36:16 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,219.95,2025-01-28 12:36:16
+MercadoLibre,29/1/2025,1:19:12 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,219.95,2025-01-29 01:19:12
+MercadoLibre,29/1/2025,12:36:17 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,218.26,2025-01-29 12:36:17
+MercadoLibre,30/1/2025,1:18:25 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,218.26,2025-01-30 01:18:25
+MercadoLibre,30/1/2025,12:36:10 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,217.73,2025-01-30 12:36:10
+MercadoLibre,31/1/2025,1:20:00 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,217.73,2025-01-31 01:20:00
+MercadoLibre,31/1/2025,12:35:38 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,219.74,2025-01-31 12:35:38
+MercadoLibre,1/2/2025,1:23:47 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,230.95,2025-02-01 01:23:47
+MercadoLibre,1/2/2025,12:33:15 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,230.95,2025-02-01 12:33:15
+MercadoLibre,2/2/2025,1:23:31 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,230.95,2025-02-02 01:23:31
+MercadoLibre,2/2/2025,12:32:38 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,227.0,2025-02-02 12:32:38
+MercadoLibre,3/2/2025,1:20:48 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,227.0,2025-02-03 01:20:48
+MercadoLibre,3/2/2025,12:36:30 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,232.26,2025-02-03 12:36:30
+MercadoLibre,4/2/2025,1:19:51 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,232.26,2025-02-04 01:19:51
+MercadoLibre,4/2/2025,12:37:09 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,224.27,2025-02-04 12:37:09
+MercadoLibre,5/2/2025,1:20:49 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,224.27,2025-02-05 01:20:49
+MercadoLibre,5/2/2025,12:36:55 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,227.04,2025-02-05 12:36:55
+MercadoLibre,6/2/2025,1:21:20 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,227.04,2025-02-06 01:21:20
+MercadoLibre,6/2/2025,12:37:05 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,227.37,2025-02-06 12:37:05
+MercadoLibre,7/2/2025,1:21:15 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,227.37,2025-02-07 01:21:15
+MercadoLibre,7/2/2025,12:35:51 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,226.38,2025-02-07 12:35:51
+MercadoLibre,8/2/2025,1:18:46 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,226.38,2025-02-08 01:18:46
+MercadoLibre,8/2/2025,12:33:28 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,226.38,2025-02-08 12:33:28
+MercadoLibre,9/2/2025,1:24:45 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,226.38,2025-02-09 01:24:45
+MercadoLibre,9/2/2025,12:32:59 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,226.38,2025-02-09 12:32:59
+MercadoLibre,10/2/2025,1:21:57 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,226.38,2025-02-10 01:21:57
+MercadoLibre,10/2/2025,12:37:20 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,227.48,2025-02-10 12:37:20
+MercadoLibre,11/2/2025,1:20:38 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,227.48,2025-02-11 01:20:38
+MercadoLibre,11/2/2025,12:37:21 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,227.48,2025-02-11 12:37:21
+MercadoLibre,12/2/2025,1:21:34 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,227.48,2025-02-12 01:21:34
+MercadoLibre,12/2/2025,12:37:15 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,229.72,2025-02-12 12:37:15
+MercadoLibre,13/2/2025,1:21:17 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,229.72,2025-02-13 01:21:17
+MercadoLibre,13/2/2025,12:37:18 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,229.83,2025-02-13 12:37:18
+MercadoLibre,14/2/2025,1:21:01 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,229.83,2025-02-14 01:21:01
+MercadoLibre,14/2/2025,12:37:18 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,227.83,2025-02-14 12:37:18
+MercadoLibre,15/2/2025,1:20:05 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,227.83,2025-02-15 01:20:05
+MercadoLibre,15/2/2025,12:33:35 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,212.07,2025-02-15 12:33:35
+MercadoLibre,16/2/2025,1:27:06 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,212.07,2025-02-16 01:27:06
+MercadoLibre,16/2/2025,12:36:30 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,220.87,2025-02-16 12:36:30
+MercadoLibre,17/2/2025,1:24:09 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,220.87,2025-02-17 01:24:09
+MercadoLibre,17/2/2025,12:38:23 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,220.87,2025-02-17 12:38:23
+MercadoLibre,18/2/2025,1:21:15 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,220.87,2025-02-18 01:21:15
+MercadoLibre,18/2/2025,12:36:20 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,219.36,2025-02-18 12:36:20
+MercadoLibre,19/2/2025,1:21:25 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,219.36,2025-02-19 01:21:25
+MercadoLibre,19/2/2025,12:35:23 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,219.25,2025-02-19 12:35:23
+MercadoLibre,20/2/2025,1:21:35 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,219.25,2025-02-20 01:21:35
+MercadoLibre,20/2/2025,12:37:51 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,220.87,2025-02-20 12:37:51
+MercadoLibre,21/2/2025,1:22:18 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,220.87,2025-02-21 01:22:18
+MercadoLibre,21/2/2025,12:37:17 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,220.33,2025-02-21 12:37:17
+MercadoLibre,22/2/2025,1:19:52 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,220.33,2025-02-22 01:19:52
+MercadoLibre,22/2/2025,12:33:30 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,220.33,2025-02-22 12:33:30
+MercadoLibre,23/2/2025,1:26:54 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,220.33,2025-02-23 01:26:54
+MercadoLibre,23/2/2025,12:34:02 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,220.33,2025-02-23 12:34:02
+MercadoLibre,24/2/2025,1:24:19 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,220.33,2025-02-24 01:24:19
+MercadoLibre,24/2/2025,12:38:51 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,212.28,2025-02-24 12:38:51
+MercadoLibre,25/2/2025,1:23:04 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,212.28,2025-02-25 01:23:04
+MercadoLibre,25/2/2025,12:38:11 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,228.94,2025-02-25 12:38:11
+MercadoLibre,26/2/2025,1:23:12 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,228.94,2025-02-26 01:23:12
+MercadoLibre,26/2/2025,12:38:27 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,228.39,2025-02-26 12:38:27
+MercadoLibre,27/2/2025,1:23:32 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,228.39,2025-02-27 01:23:32
+MercadoLibre,27/2/2025,12:38:07 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,227.61,2025-02-27 12:38:07
+MercadoLibre,28/2/2025,1:23:38 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,227.61,2025-02-28 01:23:38
+MercadoLibre,28/2/2025,12:37:44 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,228.39,2025-02-28 12:37:44
+MercadoLibre,1/3/2025,1:28:32 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,228.39,2025-03-01 01:28:32
+MercadoLibre,1/3/2025,12:35:18 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,214.43,2025-03-01 12:35:18
+MercadoLibre,2/3/2025,1:27:44 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,214.43,2025-03-02 01:27:44
+MercadoLibre,2/3/2025,12:34:21 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,214.43,2025-03-02 12:34:21
+MercadoLibre,3/3/2025,1:25:51 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,214.43,2025-03-03 01:25:51
+MercadoLibre,3/3/2025,12:38:47 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,214.33,2025-03-03 12:38:47
+MercadoLibre,4/3/2025,1:24:24 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,214.33,2025-03-04 01:24:24
+MercadoLibre,4/3/2025,12:38:30 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,219.03,2025-03-04 12:38:30
+MercadoLibre,5/3/2025,1:24:18 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,219.03,2025-03-05 01:24:18
+MercadoLibre,5/3/2025,12:38:34 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,209.3,2025-03-05 12:38:34
+MercadoLibre,6/3/2025,1:24:58 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,209.3,2025-03-06 01:24:58
+MercadoLibre,6/3/2025,12:38:59 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,214.64,2025-03-06 12:38:59
+MercadoLibre,7/3/2025,1:25:25 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,214.64,2025-03-07 01:25:25
+MercadoLibre,7/3/2025,12:37:48 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,212.24,2025-03-07 12:37:48
+MercadoLibre,8/3/2025,1:09:11 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,212.24,2025-03-08 01:09:11
+MercadoLibre,8/3/2025,12:29:12 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,212.24,2025-03-08 12:29:12
+MercadoLibre,9/3/2025,1:14:16 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,212.24,2025-03-09 01:14:16
+MercadoLibre,9/3/2025,12:28:47 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,212.24,2025-03-09 12:28:47
+MercadoLibre,10/3/2025,1:12:23 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,212.24,2025-03-10 01:12:23
+MercadoLibre,10/3/2025,12:39:32 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,212.45,2025-03-10 12:39:32
+MercadoLibre,11/3/2025,1:25:34 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,212.45,2025-03-11 01:25:34
+MercadoLibre,11/3/2025,12:39:25 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,213.28,2025-03-11 12:39:25
+MercadoLibre,12/3/2025,1:24:31 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,213.28,2025-03-12 01:24:31
+MercadoLibre,12/3/2025,12:38:58 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,218.44,2025-03-12 12:38:58
+MercadoLibre,13/3/2025,1:25:37 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,218.44,2025-03-13 01:25:37
+MercadoLibre,13/3/2025,12:39:49 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,217.69,2025-03-13 12:39:49
+MercadoLibre,14/3/2025,1:24:27 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,217.69,2025-03-14 01:24:27
+MercadoLibre,14/3/2025,12:37:46 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,223.6,2025-03-14 12:37:46
+MercadoLibre,15/3/2025,1:23:51 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,223.6,2025-03-15 01:23:51
+MercadoLibre,15/3/2025,12:35:26 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,223.6,2025-03-15 12:35:26
+MercadoLibre,16/3/2025,1:30:55 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,223.6,2025-03-16 01:30:55
+MercadoLibre,16/3/2025,12:35:32 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,223.6,2025-03-16 12:35:32
+MercadoLibre,17/3/2025,1:27:51 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,223.6,2025-03-17 01:27:51
+MercadoLibre,17/3/2025,12:40:08 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,222.49,2025-03-17 12:40:08
+MercadoLibre,18/3/2025,1:25:38 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,222.49,2025-03-18 01:25:38
+MercadoLibre,18/3/2025,12:39:52 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,222.93,2025-03-18 12:39:52
+MercadoLibre,19/3/2025,1:26:04 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,222.93,2025-03-19 01:26:04
+MercadoLibre,19/3/2025,12:39:30 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,223.16,2025-03-19 12:39:30
+MercadoLibre,20/3/2025,1:25:38 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,223.16,2025-03-20 01:25:38
+MercadoLibre,20/3/2025,12:38:20 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,225.05,2025-03-20 12:38:20
+MercadoLibre,21/3/2025,1:26:38 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,225.05,2025-03-21 01:26:38
+MercadoLibre,21/3/2025,12:38:28 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,225.72,2025-03-21 12:38:28
+MercadoLibre,22/3/2025,1:24:34 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,225.72,2025-03-22 01:24:34
+MercadoLibre,22/3/2025,12:35:29 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,225.72,2025-03-22 12:35:29
+MercadoLibre,23/3/2025,1:38:44 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,225.72,2025-03-23 01:38:44
+MercadoLibre,23/3/2025,12:35:50 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,225.72,2025-03-23 12:35:50
+MercadoLibre,24/3/2025,1:28:35 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,225.72,2025-03-24 01:28:35
+MercadoLibre,24/3/2025,12:40:34 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,225.49,2025-03-24 12:40:34
+MercadoLibre,25/3/2025,1:27:21 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,225.49,2025-03-25 01:27:21
+MercadoLibre,25/3/2025,12:39:51 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,223.6,2025-03-25 12:39:51
+MercadoLibre,26/3/2025,1:26:52 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,223.6,2025-03-26 01:26:52
+MercadoLibre,26/3/2025,12:39:53 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,224.6,2025-03-26 12:39:53
+MercadoLibre,27/3/2025,1:26:43 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,224.6,2025-03-27 01:26:43
+MercadoLibre,27/3/2025,12:40:19 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,219.0,2025-03-27 12:40:19
+MercadoLibre,28/3/2025,1:26:24 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,219.0,2025-03-28 01:26:24
+MercadoLibre,28/3/2025,12:39:05 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,220.19,2025-03-28 12:39:05
+MercadoLibre,29/3/2025,1:26:08 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,220.19,2025-03-29 01:26:08
+MercadoLibre,29/3/2025,12:36:50 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,217.34,2025-03-29 12:36:50
+MercadoLibre,30/3/2025,1:40:41 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,217.34,2025-03-30 01:40:41
+MercadoLibre,30/3/2025,12:36:50 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,217.34,2025-03-30 12:36:50
+MercadoLibre,31/3/2025,1:30:56 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,203.09,2025-03-31 01:30:56
+MercadoLibre,31/3/2025,12:40:43 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,218.73,2025-03-31 12:40:43
+MercadoLibre,1/4/2025,1:45:08 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,218.73,2025-04-01 01:45:08
+MercadoLibre,1/4/2025,12:41:27 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,224.71,2025-04-01 12:41:27
+MercadoLibre,2/4/2025,1:28:36 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,224.71,2025-04-02 01:28:36
+MercadoLibre,2/4/2025,12:41:09 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,223.18,2025-04-02 12:41:09
+MercadoLibre,3/4/2025,1:26:54 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,223.18,2025-04-03 01:26:54
+MercadoLibre,3/4/2025,12:40:17 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,220.33,2025-04-03 12:40:17
+MercadoLibre,4/4/2025,1:27:00 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,220.33,2025-04-04 01:27:00
+MercadoLibre,4/4/2025,12:39:47 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,221.21,2025-04-04 12:39:47
+MercadoLibre,5/4/2025,1:26:02 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,221.21,2025-04-05 01:26:02
+MercadoLibre,5/4/2025,12:36:08 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,221.21,2025-04-05 12:36:08
+MercadoLibre,6/4/2025,1:39:33 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,221.21,2025-04-06 01:39:33
+MercadoLibre,6/4/2025,12:36:27 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,221.21,2025-04-06 12:36:27
+MercadoLibre,7/4/2025,1:29:50 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,218.78,2025-04-07 01:29:50
+MercadoLibre,7/4/2025,12:41:29 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,225.38,2025-04-07 12:41:29
+MercadoLibre,8/4/2025,1:27:40 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,225.38,2025-04-08 01:27:40
+MercadoLibre,8/4/2025,12:40:57 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,206.79,2025-04-08 12:40:57
+MercadoLibre,9/4/2025,1:28:01 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,206.79,2025-04-09 01:28:01
+MercadoLibre,9/4/2025,12:41:04 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,226.25,2025-04-09 12:41:04
+MercadoLibre,10/4/2025,1:27:44 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,226.25,2025-04-10 01:27:44
+MercadoLibre,10/4/2025,12:40:55 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,227.72,2025-04-10 12:40:55
+MercadoLibre,11/4/2025,1:28:59 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,227.72,2025-04-11 01:28:59
+MercadoLibre,11/4/2025,12:40:25 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,225.61,2025-04-11 12:40:25
+MercadoLibre,12/4/2025,1:26:23 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,225.61,2025-04-12 01:26:23
+MercadoLibre,12/4/2025,12:36:25 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,216.59,2025-04-12 12:36:25
+MercadoLibre,13/4/2025,2:55:31 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,216.59,2025-04-13 02:55:31
+MercadoLibre,13/4/2025,12:37:03 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,216.59,2025-04-13 12:37:03
+MercadoLibre,14/4/2025,1:31:14 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,216.59,2025-04-14 01:31:14
+MercadoLibre,14/4/2025,12:41:04 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,214.05,2025-04-14 12:41:04
+MercadoLibre,15/4/2025,1:30:27 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,214.05,2025-04-15 01:30:27
+MercadoLibre,15/4/2025,12:40:31 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,212.57,2025-04-15 12:40:31
+MercadoLibre,16/4/2025,1:29:59 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,212.57,2025-04-16 01:29:59
+MercadoLibre,16/4/2025,12:41:10 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,212.78,2025-04-16 12:41:10
+MercadoLibre,17/4/2025,1:28:39 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,212.78,2025-04-17 01:28:39
+MercadoLibre,17/4/2025,12:40:48 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,216.62,2025-04-17 12:40:48
+MercadoLibre,18/4/2025,1:28:03 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,216.62,2025-04-18 01:28:03
+MercadoLibre,18/4/2025,12:38:47 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,216.62,2025-04-18 12:38:47
+MercadoLibre,19/4/2025,1:25:41 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,216.62,2025-04-19 01:25:41
+MercadoLibre,19/4/2025,12:36:34 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,216.62,2025-04-19 12:36:34
+MercadoLibre,20/4/2025,1:42:27 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,216.62,2025-04-20 01:42:27
+MercadoLibre,20/4/2025,12:36:48 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,216.62,2025-04-20 12:36:48
+MercadoLibre,21/4/2025,1:41:24 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,216.62,2025-04-21 01:41:24
+MercadoLibre,21/4/2025,12:40:07 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,213.7,2025-04-21 12:40:07
+MercadoLibre,22/4/2025,1:29:30 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,213.7,2025-04-22 01:29:30
+MercadoLibre,22/4/2025,12:40:36 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,213.37,2025-04-22 12:40:36
+MercadoLibre,23/4/2025,1:29:30 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,213.37,2025-04-23 01:29:30
+MercadoLibre,23/4/2025,12:42:55 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,199.33,2025-04-23 12:42:55
+MercadoLibre,24/4/2025,1:30:02 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,199.33,2025-04-24 01:30:02
+MercadoLibre,24/4/2025,12:42:12 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,215.08,2025-04-24 12:42:12
+MercadoLibre,25/4/2025,1:30:35 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,215.08,2025-04-25 01:30:35
+MercadoLibre,25/4/2025,12:41:10 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,216.06,2025-04-25 12:41:10
+MercadoLibre,26/4/2025,1:27:24 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,216.06,2025-04-26 01:27:24
+MercadoLibre,26/4/2025,12:37:43 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,216.06,2025-04-26 12:37:43
+MercadoLibre,27/4/2025,1:42:50 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,216.06,2025-04-27 01:42:50
+MercadoLibre,27/4/2025,12:38:06 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,216.06,2025-04-27 12:38:06
+MercadoLibre,28/4/2025,1:41:00 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,216.06,2025-04-28 01:41:00
+MercadoLibre,28/4/2025,12:43:43 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,214.31,2025-04-28 12:43:43
+MercadoLibre,29/4/2025,1:31:22 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,214.31,2025-04-29 01:31:22
+MercadoLibre,29/4/2025,12:43:22 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,215.63,2025-04-29 12:43:22
+MercadoLibre,30/4/2025,1:30:32 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,215.63,2025-04-30 01:30:32
+MercadoLibre,30/4/2025,12:41:09 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,199.33,2025-04-30 12:41:09
+MercadoLibre,1/5/2025,1:46:23 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,199.33,2025-05-01 01:46:23
+MercadoLibre,1/5/2025,12:40:39 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,215.85,2025-05-01 12:40:39
+MercadoLibre,2/5/2025,1:31:04 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,215.85,2025-05-02 01:31:04
+MercadoLibre,2/5/2025,12:40:37 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,215.96,2025-05-02 12:40:37
+MercadoLibre,3/5/2025,1:29:16 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,215.96,2025-05-03 01:29:16
+MercadoLibre,3/5/2025,12:37:51 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,215.96,2025-05-03 12:37:51
+MercadoLibre,4/5/2025,1:47:11 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,215.96,2025-05-04 01:47:11
+MercadoLibre,4/5/2025,12:38:06 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,215.96,2025-05-04 12:38:06
+MercadoLibre,5/5/2025,1:43:07 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,215.96,2025-05-05 01:43:07
+MercadoLibre,5/5/2025,12:41:49 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,214.75,2025-05-05 12:41:49
+MercadoLibre,6/5/2025,1:31:31 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,214.75,2025-05-06 01:31:31
+MercadoLibre,6/5/2025,12:43:31 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,220.49,2025-05-06 12:43:31
+MercadoLibre,7/5/2025,1:40:53 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,224.25,2025-05-07 01:40:53
+MercadoLibre,7/5/2025,12:43:43 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,223.34,2025-05-07 12:43:43
+MercadoLibre,8/5/2025,1:41:11 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,223.34,2025-05-08 01:41:11
+MercadoLibre,8/5/2025,12:42:08 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,226.6,2025-05-08 12:42:08
+MercadoLibre,9/5/2025,1:40:14 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,234.07,2025-05-09 01:40:14
+MercadoLibre,9/5/2025,12:40:45 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,233.0,2025-05-09 12:40:45
+MercadoLibre,10/5/2025,1:28:46 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,233.0,2025-05-10 01:28:46
+MercadoLibre,10/5/2025,12:37:38 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,233.0,2025-05-10 12:37:38
+MercadoLibre,11/5/2025,1:44:59 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,233.0,2025-05-11 01:44:59
+MercadoLibre,11/5/2025,12:38:04 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,233.0,2025-05-11 12:38:04
+MercadoLibre,12/5/2025,1:43:56 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,233.0,2025-05-12 01:43:56
+MercadoLibre,12/5/2025,12:43:27 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,233.36,2025-05-12 12:43:27
+MercadoLibre,13/5/2025,1:41:48 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,233.36,2025-05-13 01:41:48
+MercadoLibre,13/5/2025,12:43:54 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,233.95,2025-05-13 12:43:54
+MercadoLibre,14/5/2025,1:40:26 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,233.95,2025-05-14 01:40:26
+MercadoLibre,14/5/2025,12:42:29 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,231.22,2025-05-14 12:42:29
+MercadoLibre,15/5/2025,1:30:11 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,231.22,2025-05-15 01:30:11
+MercadoLibre,15/5/2025,12:42:44 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,227.76,2025-05-15 12:42:44
+MercadoLibre,16/5/2025,1:41:19 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,235.15,2025-05-16 01:41:19
+MercadoLibre,16/5/2025,12:42:00 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,239.95,2025-05-16 12:42:00
+MercadoLibre,17/5/2025,1:30:50 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,239.95,2025-05-17 01:30:50
+MercadoLibre,17/5/2025,12:38:28 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,239.95,2025-05-17 12:38:28
+MercadoLibre,18/5/2025,1:46:29 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,239.95,2025-05-18 01:46:29
+MercadoLibre,18/5/2025,12:38:55 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,239.95,2025-05-18 12:38:55
+MercadoLibre,19/5/2025,1:45:46 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,236.24,2025-05-19 01:45:46
+MercadoLibre,19/5/2025,12:44:05 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,236.0,2025-05-19 12:44:05
+MercadoLibre,20/5/2025,1:42:31 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,236.0,2025-05-20 01:42:31
+MercadoLibre,20/5/2025,12:44:02 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,226.47,2025-05-20 12:44:02
+MercadoLibre,21/5/2025,1:41:48 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,226.47,2025-05-21 01:41:48
+MercadoLibre,21/5/2025,12:42:59 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,226.82,2025-05-21 12:42:59
+MercadoLibre,22/5/2025,1:41:16 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,226.82,2025-05-22 01:41:16
+MercadoLibre,22/5/2025,12:43:06 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,235.51,2025-05-22 12:43:06
+MercadoLibre,23/5/2025,1:41:17 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,235.51,2025-05-23 01:41:17
+MercadoLibre,23/5/2025,12:41:34 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,233.7,2025-05-23 12:41:34
+MercadoLibre,24/5/2025,1:30:06 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,233.7,2025-05-24 01:30:06
+MercadoLibre,24/5/2025,12:38:19 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,233.7,2025-05-24 12:38:19
+MercadoLibre,25/5/2025,1:48:47 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,233.7,2025-05-25 01:48:47
+MercadoLibre,25/5/2025,12:38:41 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,233.7,2025-05-25 12:38:41
+MercadoLibre,26/5/2025,1:44:19 am,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,213.9,2025-05-26 01:44:19
+MercadoLibre,26/5/2025,12:41:49 pm,"Juego De Cubiertos Topon De Acero Inoxidable, 30 Piezas",tableware,210.81,2025-05-26 12:41:49
