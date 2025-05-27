@@ -73,14 +73,6 @@ const main = async () => {
 
   await mercado_libre(
     context,
-    'https://www.mercadolibre.com.mx/juego-de-cubiertos-topon-de-acero-inoxidable-30-piezas/p/MLM33578427#reviews',
-    [100, 125, 150],
-    'cubiertos',
-    'tableware'
-  );
-
-  await mercado_libre(
-    context,
     'https://www.mercadolibre.com.mx/almohada-spring-air-essence-peach-feel-2-unidades-confort-suave/p/MLM21816453#polycard_client=search-nordic&wid=MLM3425889098&sid=search&searchVariation=MLM21816453&position=14&search_layout=grid&type=product&tracking_id=f73de847-2bf9-47db-8114-124157f05d4a',
     [200, 225, 250],
     'almohadas',
@@ -105,14 +97,6 @@ const main = async () => {
 
   await mercado_libre(
     context,
-    'https://www.mercadolibre.com.mx/colchon-matrimonial-voltti-flip-doble-confort-20-cm-reversible-con-2-diferentes-firmezas-nano-memory-foam-ergonomico-y-ortopedico-disminuye-puntos-de-presion/p/MLM23997499?pdp_filters=item_id:MLM2272380432#is_advertising=true&searchVariation=MLM23997499&position=1&search_layout=grid&type=pad&tracking_id=4a614400-1899-474b-8664-967e70ebfc57&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=1&ad_click_id=ZWI0MmRjZjItZjViNS00ODdjLWEyMzYtMmRkZDEzZmU0ZGM0',
-    [3000, 3250, 3500],
-    'colchones',
-    'voltti'
-  );
-
-  await mercado_libre(
-    context,
     'https://www.mercadolibre.com.mx/audifonos-inalambricos-samsung-galaxy-buds-fe-blanco/p/MLM29107883#polycard_client=search-nordic&wid=MLM2778020948&sid=search&searchVariation=MLM29107883&position=8&search_layout=stack&type=product&tracking_id=3308eb28-c36a-4d08-9e4a-6458a3516704',
     [900, 1100, 1200],
     'audifonos',
@@ -133,14 +117,6 @@ const main = async () => {
     [1],
     'audifonos',
     'samsung'
-  );
-
-  await mercado_libre(
-    context,
-    'https://www.mercadolibre.com.mx/refrigerador-frigobar-hisense-rr33d6agx1-color-gris-con-capacidad-de-93l/p/MLM19818777#polycard_client=navigation&wid=MLM1684916186&sid=navigation',
-    [2800, 2900, 3000],
-    'frigobar',
-    'hisense'
   );
 
   await mercado_libre(
