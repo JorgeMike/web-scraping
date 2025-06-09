@@ -57,6 +57,15 @@ const main = async () => {
 
   await mercado_libre(
     context,
+    'https://www.mercadolibre.com.mx/kit-de-2-llantas-firestone-fr710-st-18560r15-84-h/p/MLM36947657?highlight=true&headerTopBrand=true#polycard_client=search-nordic&searchVariation=MLM36947657&wid=MLM3547019142&position=1&search_layout=stack&type=product&tracking_id=0e108155-89d7-4932-9b25-aefa06bd7602&sid=search',
+    [1400, 1500, 1600],
+    'llantas',
+    'firestone'
+  );
+
+
+  await mercado_libre(
+    context,
     'https://www.mercadolibre.com.mx/llanta-tornel-direccional-18560r15-84-s/p/MLM15582578#polycard_client=search-nordic&wid=MLM1925470919&sid=search&searchVariation=MLM15582578&position=8&search_layout=stack&type=product&tracking_id=a49f4215-0521-4e69-8d7f-deec3200107e',
     [900, 1000, 1150],
     'llantas',
@@ -119,6 +128,14 @@ const main = async () => {
     'samsung'
   );
 
+    await mercado_libre(
+    context,
+    'https://www.mercadolibre.com.mx/audifonos-inalambricos-samsung-galaxy-buds3-grafito-ai/p/MLM38457695#reco_item_pos=1&reco_backend=item_decorator&reco_backend_type=function&reco_client=home_items-decorator-legacy&reco_id=7b3f6c65-4e1c-40b5-bfe5-cd621d418f39&reco_model=&c_id=/home/bookmarks-recommendations-seed/element&c_uid=acb93867-c819-44ec-a1bc-3d518bd1fbeb&da_id=bookmark&da_position=1&id_origin=/home/dynamic_access&da_sort_algorithm=ranker',
+    [1],
+    'audifonos',
+    'samsung'
+  );
+
   await mercado_libre(
     context,
     'https://articulo.mercadolibre.com.mx/MLM-1402410801-tenis-para-hombre-nike-court-vision-low-next-nature-_JM?searchVariation=174386428942#polycard_client=search-nordic&searchVariation=174386428942&position=3&search_layout=grid&type=item&tracking_id=d60e4db4-081a-4219-ba3b-47afd9543d4d',
@@ -146,6 +163,14 @@ const main = async () => {
   await mercado_libre(
     context,
     'https://www.mercadolibre.com.mx/silla-de-oficina-ejecutiva-reclinable-ergonomica-reposapies-color-negro/p/MLM23039205?pdp_filters=item_id:MLM2152854718#is_advertising=true&searchVariation=MLM23039205&position=1&search_layout=grid&type=pad&tracking_id=ebc6e957-0b7b-4b71-b1db-dea1986a1c0d&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=1&ad_click_id=ZjUwMTY4ZDctZDRlNi00NTM3LThhYTAtYWQyNzJkY2RhOGU1',
+    [1000, 1100, 1200],
+    'sillas',
+    'ouo'
+  );
+
+    await mercado_libre(
+    context,
+    'https://www.mercadolibre.com.mx/lentes-de-realidad-virtual-meta-quest-3-512-gb-color-blanco/p/MLM28299479#reco_item_pos=1&reco_backend=item_decorator&reco_backend_type=function&reco_client=home_items-decorator-legacy&reco_id=6d7ce66d-cbca-4364-af37-afa01b2cf6ab&reco_model=&c_id=/home/bookmarks-recommendations-seed/element&c_uid=26950314-92ce-44c6-89b9-060f76101ace&da_id=bookmark&da_position=1&id_origin=/home/dynamic_access&da_sort_algorithm=ranker',
     [1000, 1100, 1200],
     'sillas',
     'ouo'
